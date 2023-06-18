@@ -1,4 +1,4 @@
-#!guile \
+#!/run/current-system/profile/bin/guile \
 -e main -s
 !#
 
